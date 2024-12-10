@@ -1,0 +1,207 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "<b>Claim:</b> \"Practising mindfulness can reduce stress.\" <br><b>Supporting Statement:</b> \"Many people feel less stressed after practising mindfulness.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "<b>Claim:</b> \"Access to green spaces can improve mental well-being.\" <br><b>Supporting Statement:</b> \"Studies show that people with regular access to parks report higher levels of mental well-being than those without.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "<b>Claim:</b> \"Learning to code enhances problem-solving skills.\" <br><b>Supporting Statement:</b> \"Individuals who learn to code can often tackle complex problems more effectively.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "<b>Claim:</b> \"Yoga can help reduce symptoms of chronic pain.\" <br><b>Supporting Statement:</b> \"People who practised yoga daily reported significantly lower pain levels than those who did not.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "<b>Claim:</b> \"Reading fiction improves empathy.\" <br><b>Supporting Statement:</b> \"Some people feel more empathetic after reading novels.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "<b>Claim:</b> \"Learning a new language can delay cognitive decline.\" <br><b>Supporting Statement:</b> \"Bilingual individuals experienced slower cognitive decline than monolinguals.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "<b>Claim:</b> \"Consuming probiotics can improve gut health.\" <br><b>Supporting Statement:</b> \"Doctors have noted that some patients feel better after taking probiotics.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "<b>Claim:</b> \"Physical activity in children enhances academic performance.\" <br><b>Supporting Statement:</b> \"Some parents have noticed that, when their children engage in regular physical activity, they have better focus and improved test scores.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "<b>Claim:</b> \"Social interaction can help reduce loneliness in the elderly.\" <br><b>Supporting Statement:</b> \"Some elderly people feel less lonely after spending time with family.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "<b>Claim:</b> \"Volunteering improves self-esteem.\" <br><b>Supporting Statement:</b> \"People who volunteer regularly report higher self-esteem levels than those who do not volunteer.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "<b>Statement:</b><br> \"Personal anecdotes can add emotional appeal to a claim, but they are generally weaker as evidence compared to statistical data.\"",
+    "options": [
+      "True",
+      "False",
+      "Both of the above",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "<b>Statement:</b><br> \"Statistical evidence is more persuasive than hypothetical examples because it is based on actual data rather than imagined scenarios.\"",
+    "options": [
+      "True",
+      "False",
+      "Both of the above",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "<b>Statement:</b><br> \"Weaker evidence often relies on general observations or personal anecdotes rather than researched data.\"",
+    "options": [
+      "True",
+      "False",
+      "Both of the above",
+      "Neither True nor False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "<b>Statement:</b><br> \"The strength of evidence is primarily determined by the credibility of the source and the specificity of the data presented.\"",
+    "options": [
+      "True",
+      "False",
+      "Both of the above",
+      "Neither True nor False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "<b>Statement:</b><br> \"If a supporting statement is vague and lacks specific data or examples, it is considered to be stronger evidence.\"",
+    "options": [
+      "True",
+      "False",
+      "Both of the above",
+      "Neither True nor False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "<b>Claim:</b> \"Eating a balanced diet improves overall health.\" <br><b>Supporting Statement:</b> \"Some people experienced that having a balanced diet for at least a year showed significant improvement in heart health and reduced risk of chronic diseases.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "<b>Claim:</b> \"Sleep is essential for maintaining cognitive function.\" <br><b>Supporting Statement:</b> \"Many people report feeling more focused and alert after getting a full night's rest.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "<b>Claim:</b> \"Exercise helps reduce stress.\" <br><b>Supporting Statement:</b> \"People who exercise regularly often mention feeling more relaxed and less stressed after their workouts.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "<b>Claim:</b> \"Reading can improve vocabulary.\" <br><b>Supporting Statement:</b> \"Individuals who read regularly have a larger vocabulary and perform better in language proficiency tests.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "<b>Claim:</b> \"Regular exercise improves cardiovascular health.\" <br><b>Supporting Statement:</b> \"Individuals who engage in moderate exercise for at least 30 minutes a day have a lower risk of heart disease.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "All of the above"
+    ],
+    "correct": 1
+  }
+]
